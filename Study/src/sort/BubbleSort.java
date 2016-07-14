@@ -16,6 +16,7 @@ public class BubbleSort {
 					array.set(j, array.get(j + 1));
 					array.set(j + 1, temp);
 					needNextPass = true;
+					System.out.println("this is blueLearn branch");
 				}
 			}
 		}
