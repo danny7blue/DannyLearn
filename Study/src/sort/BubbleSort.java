@@ -20,6 +20,7 @@ public class BubbleSort {
 				}
 			}
 		}
+		System.out.println("this is danny from laptop on 7/19");
 		System.out.println("hey from home");
 		System.out.println(array);
 	}
