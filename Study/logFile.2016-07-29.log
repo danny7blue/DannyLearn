@@ -1,0 +1,30 @@
+09:48:44.761 [main] INFO  logback.LogbackDemo - ======info
+09:48:44.765 [main] WARN  logback.LogbackDemo - ======warn
+09:48:44.765 [main] ERROR logback.LogbackDemo - ======error
+09:48:44.765 [main] INFO  logback.LogbackDemo - Hello, Danny
+09:48:44.766 [main] INFO  logback.LogbackDemo - Hello, Danny! 3Q!
+09:48:44.766 [main] INFO  logback.LogbackDemo - Fruit: Apple Banana
+09:56:03.166 [main] INFO  logback.LogbackDemo - ======info
+09:56:03.168 [main] WARN  logback.LogbackDemo - ======warn
+09:56:03.169 [main] ERROR logback.LogbackDemo - ======error
+09:56:03.169 [main] INFO  logback.LogbackDemo - Hello, Danny
+09:56:03.171 [main] INFO  logback.LogbackDemo - Hello, Danny! 3Q!
+09:56:03.171 [main] INFO  logback.LogbackDemo - Fruit: Apple Banana
+09:56:03.173 [main] INFO  logback.LogbackTest - get log name
+09:56:03.173 [main] DEBUG logback.LogbackTest - print log message
+09:56:18.492 [main] INFO  logback.LogbackDemo - ======info
+09:56:18.495 [main] WARN  logback.LogbackDemo - ======warn
+09:56:18.496 [main] ERROR logback.LogbackDemo - ======error
+09:56:18.497 [main] INFO  logback.LogbackDemo - Hello, Danny
+09:56:18.497 [main] INFO  logback.LogbackDemo - Hello, Danny! 3Q!
+09:56:18.497 [main] INFO  logback.LogbackDemo - Fruit: Apple Banana
+09:56:18.498 [main] INFO  logback.LogbackTest - get log name
+09:56:18.498 [main] DEBUG logback.LogbackTest - print log message
+09:58:08.385 [main] INFO  logback.LogbackDemo - ======info
+09:58:08.390 [main] WARN  logback.LogbackDemo - ======warn
+09:58:08.390 [main] ERROR logback.LogbackDemo - ======error
+09:58:08.390 [main] INFO  logback.LogbackDemo - Hello, Danny
+09:58:08.391 [main] INFO  logback.LogbackDemo - Hello, Danny! 3Q!
+09:58:08.391 [main] INFO  logback.LogbackDemo - Fruit: Apple Banana
+09:58:08.392 [main] INFO  logback.LogbackTest - get log name
+09:58:08.392 [main] DEBUG logback.LogbackTest - print log message
