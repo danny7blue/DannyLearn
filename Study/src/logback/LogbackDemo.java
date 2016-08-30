@@ -36,6 +36,7 @@ public class LogbackDemo {
 	    LogbackTest logTest = new LogbackTest();
 	    logTest.getLogName();
 	    logTest.printLogMsg();
+	    
 //	    print internal state 
 //	    LoggerContext lc = (LoggerContext) LoggerFactory.getILoggerFactory(); StatusPrinter.print(lc);
 	}
