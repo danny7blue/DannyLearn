@@ -37,6 +37,8 @@ public class LogbackDemo {
 	    logTest.getLogName();
 	    logTest.printLogMsg();
 	    
+	    log.info("hello from laotop");
+	    
 //	    print internal state 
 //	    LoggerContext lc = (LoggerContext) LoggerFactory.getILoggerFactory(); StatusPrinter.print(lc);
 	}
