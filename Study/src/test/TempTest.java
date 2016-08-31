@@ -3,6 +3,8 @@
  */
 package test;
 
+import java.util.Scanner;
+
 /**
  * @author Danny
  *
@@ -16,9 +18,14 @@ public class TempTest {
 	 * @param 
 	 */
 	public static void main(String[] args) {
-		String[] array = new String[10];
-		System.out.println(array);
-		System.out.println(array[1]);
+		int[] myList = new int[10];
+		Scanner input = new java.util.Scanner(System.in);
+		System.out.print("Enter " + myList.length + " values: ");
+		for (int i = 0; i < myList.length; i++) {
+			myList[i] = input.nextInt();
+		}
+		for (int i = 0; i < myList.length; i++) {
+			System.out.println(myList[i]);
+		}
 	}
-
 }
