@@ -3,6 +3,7 @@
  */
 package test;
 
+import java.io.File;
 import java.util.Scanner;
 
 /**
@@ -27,5 +28,9 @@ public class TempTest {
 		for (int i = 0; i < myList.length; i++) {
 			System.out.println(myList[i]);
 		}
+	}
+	
+	public void testThrow() {
+		File file = new File("test");
 	}
 }
