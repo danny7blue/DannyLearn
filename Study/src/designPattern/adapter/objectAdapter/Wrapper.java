@@ -1,7 +1,10 @@
 /**
  * 
  */
-package designPattern.adapter;
+package designPattern.adapter.objectAdapter;
+
+import designPattern.adapter.objectAdapter.Source;
+import designPattern.adapter.objectAdapter.Targetable;
 
 /**
  * @author Danny

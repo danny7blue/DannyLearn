@@ -1,7 +1,7 @@
 /**
  * 
  */
-package designPattern.bridge;
+package designPattern.bridge.tvControllerDemo;
 
 /**
  * @author Danny

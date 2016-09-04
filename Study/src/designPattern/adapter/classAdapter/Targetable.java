@@ -1,7 +1,7 @@
 /**
  * 
  */
-package designPattern.adapter;
+package designPattern.adapter.classAdapter;
 
 /**
  * @author Danny
