@@ -1,0 +1,9 @@
+09:24:40.795 [main] INFO  logback.LogbackDemo - ======info
+09:24:40.801 [main] WARN  logback.LogbackDemo - ======warn
+09:24:40.801 [main] ERROR logback.LogbackDemo - ======error
+09:24:40.802 [main] INFO  logback.LogbackDemo - Hello, Danny
+09:24:40.802 [main] INFO  logback.LogbackDemo - Hello, Danny! 3Q!
+09:24:40.802 [main] INFO  logback.LogbackDemo - Fruit: Apple Banana
+09:24:40.810 [main] INFO  logback.LogbackTest - get log name
+09:24:40.811 [main] DEBUG logback.LogbackTest - print log message
+09:24:40.812 [main] INFO  logback.LogbackDemo - hello from laotop
