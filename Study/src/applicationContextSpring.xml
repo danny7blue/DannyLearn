@@ -33,7 +33,7 @@
 		<constructor-arg value="240" type="int"></constructor-arg>
 	</bean>
 	
-	<!-- 可以使用properties的ref属性建立bean之间的引用关系 -->
+	<!-- 可以使用property的ref属性建立bean之间的引用关系 -->
 	<bean id="person" class="spring.beans.Person">
 		<property name="name" value="Tom"></property>
 		<property name="age" value="60"></property>
@@ -105,7 +105,7 @@
 		</property>
 	</bean>
 	
-	<!-- 配置单例的集合bean, 以供多个beans进行引用,需要导入util命名空间-->
+	<!-- 配置单例的集合bean, 以供多个beans以list 的方式被引用,需要导入util命名空间-->
 	<util:list id="cars">
 		<ref bean="car"/>
 		<ref bean="car2"/>

@@ -33,6 +33,9 @@ public class TempTest {
 //		for (int i = 0; i < myList.length; i++) {
 //			System.out.println(myList[i]);
 //		}
+		
+		System.out.println(Integer.parseInt("111"));
+		
 		List list = new LinkedList<String>();
 		Set<String> set = new HashSet<String>();
 		set.add("Hello");
